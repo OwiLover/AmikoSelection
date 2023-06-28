@@ -32,6 +32,8 @@
 
 # Используемые библиотеки и технологии
 Бот: Python с использованием библиотеки Python-Telegram-Bot
+
 Алгоритм сегментирования: Python c использованием библиотек
 PyTorch, OpenCV, SQLite, Pillow, Sklearn
+
 БД: SQLite
